@@ -1,7 +1,7 @@
 public class CreateThread {
     public static void main(String[] args)throws Exception {
 
-        CreateThread d=new CreateThread();
+      
 
         //using thread class
         new ThreadClass().start();
